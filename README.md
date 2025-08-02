@@ -1,7 +1,7 @@
 
 # 🚀 CryptoScope: Professional Cryptocurrency Analysis Platform
 
-**CryptoScope** is a powerful and intuitive command-line interface (CLI) tool for real-time cryptocurrency market analysis. Leveraging data from the CoinGecko API, it delivers vital market metrics, price trends, and algorithmic investment signals to aid your crypto research.
+**CryptoScope** is a powerful and intuitive command-line interface (CLI) tool for comprehensive cryptocurrency market analysis. Leveraging advanced data from the CoinGecko API, it now delivers critical market metrics, sophisticated technical indicators, and enhanced algorithmic investment signals to empower your crypto research.
 
 ---
 
@@ -21,26 +21,31 @@ By using CryptoScope, you acknowledge and agree to this disclaimer.
 
 ## 🔍 Features
 
-- **📊 Real-Time Data:** Get live prices, market cap, 24h volume, and percent changes.
-- **📈 Investment Signals:** Receive actionable suggestions: `STRONG BUY`, `BUY`, `HOLD`, `WAIT`, or `AVOID`.
-- **🔢 Confidence Score:** Gauge signal strength (0–100) based on a weighted algorithm.
-- **🏆 Top 20 Market Leaders:** See leading cryptocurrencies by market cap at a glance.
-- **⚡ Quick Scan:** One-command overview of major coins like Bitcoin, Ethereum, and Cardano.
-- **💡 Smart Suggestions:** "Did you mean?" feature helps correct typos in coin names.
-- **💻 Cross-Platform:** Runs smoothly on Windows, macOS, and Linux with full color support.
+-   **📊 Real-Time Data:** Get live prices, market cap, 24h volume, and percent changes.
+-   **📈 Advanced Technical Analysis:** Integrates professional indicators for deeper market insights, including:
+    -   **Simple Moving Averages (SMA):** Short, medium, and long-term trend analysis.
+    -   **Relative Strength Index (RSI):** Identify overbought/oversold conditions.
+    -   **Moving Average Convergence Divergence (MACD):** Spot changes in trend strength and direction.
+-   **⭐ Enhanced Investment Signals:** Receive more precise, data-driven suggestions: `STRONG BUY`, `BUY`, `HOLD`, `WAIT`, or `AVOID`.
+-   **🎯 Upgraded Confidence Score:** Gauge signal strength (0–100) based on a sophisticated, multi-factor algorithm incorporating technical and market data.
+-   **🏆 Top 20 Market Leaders:** See leading cryptocurrencies by market cap at a glance.
+-   **⚡ Quick Scan:** One-command overview of major coins like Bitcoin, Ethereum, and Cardano.
+-   **💡 Smart Suggestions:** "Did you mean?" feature helps correct typos in coin names.
+-   **💻 Cross-Platform:** Runs smoothly on Windows, macOS, and Linux with full color support.
 
 ---
 
 ## 📊 How the Confidence Score Works
 
-CryptoScope’s **Confidence Score (0–100)** reflects algorithmic confidence in a coin's short- to mid-term potential:
+CryptoScope’s **Confidence Score (0–100)** now leverages a significantly upgraded, machine-generated algorithm to reflect a coin's short- to mid-term potential with higher accuracy. It considers:
 
-- **📉 Short-Term Trends:** 24h and 7d price changes.
-- **📈 Mid-Term Trends:** 30-day price movement adds historical context.
-- **📊 Market Cap Rank:** Higher-ranked coins are weighted slightly more favorably.
-- **💹 Volume/Market Cap Ratio:** High ratios imply stronger market activity and liquidity.
+-   **📉 Short-Term Trends:** 24h and 7d price changes.
+-   **📈 Mid-Term Trends:** 30-day price movement for historical context.
+-   **📊 Market Cap Rank:** Higher-ranked coins are weighted slightly more favorably.
+-   **💹 Volume/Market Cap Ratio:** High ratios imply stronger market activity and liquidity.
+-   **⚡ Technical Indicators:** Integrates SMA, RSI, and MACD for a comprehensive view of momentum, volatility, and trend strength.
 
-> A higher score implies bullish momentum; a lower score indicates bearish or unclear conditions.
+> A higher score implies stronger bullish momentum; a lower score indicates bearish or unclear conditions, driven by a more robust data-driven analysis.
 
 ⚠️ **Note:** This is a machine-generated score - not financial advice.
 
