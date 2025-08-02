@@ -2,3 +2,5 @@ requests
 fuzzywuzzy
 python-Levenshtein
 colorama
+pandas
+ta
